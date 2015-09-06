@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestApp</string>
+
+    <string name="hello_world">Hello, gruMP-y!</string>
+    <string name="ivan_string">Ivan - </string>
+    <string name="rose_string">Rose - </string>
+    <string name="michael_string">Michael - </string>
+    <string name="patrick_string">Patrick - </string>
+    <string name="trish_string">Trish - </string>
+    <string name="franz_string">Franz - </string>
+    <string name="action_settings">Settings</string>
+    <string name="m3x_string">m3x - Marvin Trilles</string>
+</resources>
